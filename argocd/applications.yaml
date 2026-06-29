@@ -16,7 +16,7 @@ metadata:
 spec:
   project: togglemaster
   source:
-    repoURL: https://github.com/kcpirola/techchallenge-3-gitops.git
+    repoURL: https://github.com/kcpirola/techchallenge-4-gitops.git
     targetRevision: main
     path: manifests/auth-service
   destination:
@@ -46,7 +46,7 @@ metadata:
 spec:
   project: togglemaster
   source:
-    repoURL: https://github.com/kcpirola/techchallenge-3-gitops.git
+    repoURL: https://github.com/kcpirola/techchallenge-4-gitops.git
     targetRevision: main
     path: manifests/flag-service
   destination:
@@ -76,7 +76,7 @@ metadata:
 spec:
   project: togglemaster
   source:
-    repoURL: https://github.com/kcpirola/techchallenge-3-gitops.git
+    repoURL: https://github.com/kcpirola/techchallenge-4-gitops.git
     targetRevision: main
     path: manifests/targeting-service
   destination:
@@ -106,7 +106,7 @@ metadata:
 spec:
   project: togglemaster
   source:
-    repoURL: https://github.com/kcpirola/techchallenge-3-gitops.git
+    repoURL: https://github.com/kcpirola/techchallenge-4-gitops.git
     targetRevision: main
     path: manifests/evaluation-service
   destination:
@@ -136,7 +136,7 @@ metadata:
 spec:
   project: togglemaster
   source:
-    repoURL: https://github.com/kcpirola/techchallenge-3-gitops.git
+    repoURL: https://github.com/kcpirola/techchallenge-4-gitops.git
     targetRevision: main
     path: manifests/analytics-service
   destination:
